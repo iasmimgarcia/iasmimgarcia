@@ -1,4 +1,4 @@
-### Olá, eu soua Iasmim 👋
+### Olá, eu sou a Iasmim 👋
 
 
 - 🔭 Front-end
