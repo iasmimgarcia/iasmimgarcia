@@ -1,8 +1,6 @@
 ### Olá, eu sou a Iasmim 👋
 
-
-- 🔭 Front-end
-- 🌱 Estudando Javascript
+- 🌱 Cursando Ciencia da Computação 
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
